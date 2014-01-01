@@ -21,7 +21,7 @@
 </ul>
 <p>Viele unserer Aktivitäten sind detailiert auf unserer <a title="Projekte" href="/projects">Projektseite</a> beschrieben.<strong><br />
 </strong></p>
-<p>Falls du eine Idee hast, die du veröffentlichen möchtest, schau doch mal auf unserer<a title="Projekt vorschlagen" href="/get-involved#project-proposal">Projekt-Vorschlag</a>-Seite vorbei.<strong><br />
+<p>Falls du eine Idee hast, die du veröffentlichen möchtest, schau doch mal auf unserer <a title="Projekt vorschlagen" href="/get-involved#project-proposal">Projekt-Vorschlag</a>-Seite vorbei.<strong><br />
 </strong></p>
 <h2>Projektleitung</h2>
 <p>Auf unserer <a title="Governance" href="/governance">Projektleitungs- und Vorstandsseite</a> kannst du dich über die Projektleitung, den Vereinsvorstand, Jahresberichte und die Buchhaltung informieren.</p>
